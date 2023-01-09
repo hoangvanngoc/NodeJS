@@ -52,3 +52,7 @@ truyền lên URL parameter.
 
   - form mặc định là phương thức get
   nếu muốn thay đổi phương thức, dùng attr method trong thẻ form method="POST"
+
+  - phuong thuc POST se submit duoi dang formData
+
+  // doc lai luong route
